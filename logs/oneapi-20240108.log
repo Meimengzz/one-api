@@ -1,0 +1,25 @@
+[SYS] 2024/01/08 - 01:14:59 | One API v0.0.0 started 
+[SYS] 2024/01/08 - 01:14:59 | SQL_DSN not set, using SQLite as database 
+[SYS] 2024/01/08 - 01:14:59 | database migration started 
+[SYS] 2024/01/08 - 01:15:05 | database migrated 
+[SYS] 2024/01/08 - 01:15:05 | no user exists, create a root user for you: username is root, password is 123456 
+[SYS] 2024/01/08 - 01:15:06 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2024/01/08 - 01:15:06 | using theme default 
+[SYS] 2024/01/08 - 01:15:06 | initializing token encoders 
+[SYS] 2024/01/08 - 01:15:07 | token encoders initialized 
+[GIN] 2024/01/08 - 01:15:32 | 20240108011532951150601n2WKE12 | 200 |     522.846µs |    15.204.16.77 |     GET /
+[GIN] 2024/01/08 - 01:18:20 | 20240108011820664945623SEQvZILG | 200 |     225.847µs |    15.204.16.77 |     GET /
+[GIN] 2024/01/08 - 01:18:20 | 20240108011820678523496chrih4RE | 200 |     255.108µs |    15.204.16.77 |     GET /
+[SYS] 2024/01/08 - 01:19:13 | One API v0.0.0 started 
+[SYS] 2024/01/08 - 01:19:13 | SQL_DSN not set, using SQLite as database 
+[SYS] 2024/01/08 - 01:19:13 | database migration started 
+[SYS] 2024/01/08 - 01:19:13 | database migrated 
+[SYS] 2024/01/08 - 01:19:13 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2024/01/08 - 01:19:13 | using theme default 
+[SYS] 2024/01/08 - 01:19:13 | initializing token encoders 
+[SYS] 2024/01/08 - 01:19:14 | token encoders initialized 
+[GIN] 2024/01/08 - 01:19:15 | 20240108011915298666429BX0cNDPI | 200 |      70.682µs |    15.204.16.77 |     GET /
+[GIN] 2024/01/08 - 01:19:20 | 2024010801192083978458083eETTep | 200 |      26.221µs |    15.204.16.77 |     GET /
+[GIN] 2024/01/08 - 01:19:43 | 20240108011943626145657448kwfu3 | 200 |      28.231µs |    15.204.16.77 |     GET /
+[GIN] 2024/01/08 - 01:19:43 | 20240108011943973142973ggrYRD3j | 200 |     574.208µs |    15.204.16.77 |     GET /favicon.ico
+[GIN] 2024/01/08 - 20:28:50 | 20240108202850889605656vwhLg9BP | 200 |     3.38497ms |    15.204.16.77 |     GET /
